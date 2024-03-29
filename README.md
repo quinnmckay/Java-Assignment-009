@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+ANSWER Why not? HERE: Around this point, the answers start to not be correct due to the int's data type exceeding its range. So that why we would need to use the BigInteger.
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -26,7 +26,7 @@ ANSWER Why not? HERE
     * How high can you make it go?
 
 ```text
-ANSWER #4 HERE
+ANSWER #4 HERE: It seems like it is correct up to 30 and it seems like it can go as high as you would want, I put in 10,000 and it went to 10,000 but it cut out anything below 374. I put in 726 and it showed all the answers up to 726!, so I think it can output a total of 726 lines before it starts cut out anything beyond that starting with 1! then working it way up as the number gets bigger.
 ```
 
 ## Submission
